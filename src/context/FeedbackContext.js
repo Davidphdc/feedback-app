@@ -21,7 +21,6 @@ export const FeedbackProvider = ({ children }) => {
 
     setFeedback(data)
     setIsLoading(false)
-    console.log(data)
   }
 
   // Add feedback

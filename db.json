@@ -6,9 +6,19 @@
       "text": "Feedback item 1 coming from backend"
     },
     {
-      "id": 2,
-      "rating": 8,
-      "text": "Feedback item 2 coming from backend"
+      "text": "lets add an new test",
+      "rating": 10,
+      "id": 3
+    },
+    {
+      "text": "why are they not saviong after I delete and reload",
+      "rating": 2,
+      "id": 4
+    },
+    {
+      "text": "a secondry test aswell",
+      "rating": 10,
+      "id": 5
     }
   ]
 }

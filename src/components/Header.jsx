@@ -10,7 +10,7 @@ function Header({ text, bgColor, textColor }) {
   return (
     <header style={headerStyles}>
       <div className='container'>
-        <Link to='/' style={{ textDecoration: "none", color: "#ff6a95" }}>
+        <Link to='/' style={{ textDecoration: "none", color: "#ff5703" }}>
           <h2>{text}</h2>
         </Link>
       </div>
@@ -19,7 +19,7 @@ function Header({ text, bgColor, textColor }) {
 }
 
 Header.defaultProps = {
-  text: "Feedback UI",
+  text: "Feeback Form | www.davidcvetkovic.com",
   bgColor: "rgba(0,0,0,0.4)",
   textColor: "#ff6a95",
 }

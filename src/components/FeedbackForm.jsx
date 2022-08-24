@@ -65,7 +65,7 @@ function FeedbackForm() {
   return (
     <Card>
       <form onSubmit={handleSubmit}>
-        <h2>How would you rate your service with us?</h2>
+        <h2>Hello peers and people, constructive critism is always welcome especially if one wants to improve their skill set. So please have at it and let me know what you think</h2>
         <RatingSelect select={setRating} selected={rating} />
         <div className='input-group'>
           <input

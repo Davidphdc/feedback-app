@@ -9,21 +9,6 @@
       "id": 2,
       "rating": 8,
       "text": "Feedback item 2 coming from backend"
-    },
-    {
-      "id": 3,
-      "rating": 9,
-      "text": "Feedback item 3 coming from backend"
-    },
-    {
-      "text": "dwdwdwddwdwd",
-      "rating": 7,
-      "id": 4
-    },
-    {
-      "text": "dw dave is doing a fine job slowly",
-      "rating": 5,
-      "id": 5
     }
   ]
 }
